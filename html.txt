@@ -5,3 +5,5 @@ jenkins
 tomcat
 ngix
 java
+afzal
+shaik
