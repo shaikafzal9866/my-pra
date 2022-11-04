@@ -3,3 +3,5 @@ maven
 docker
 jenkins
 tomcat
+ngix
+java
