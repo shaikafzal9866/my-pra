@@ -7,3 +7,5 @@ ngix
 java
 afzal
 shaik
+insitute
+civil background
