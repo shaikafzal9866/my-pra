@@ -1,3 +1,5 @@
 git 
 maven
 docker
+jenkins
+tomcat
